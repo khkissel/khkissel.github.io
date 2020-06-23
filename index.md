@@ -18,3 +18,5 @@ Die Komponsitionen von Lennon/McCartney sind mit die bekanntesten und erfolgreic
    * 1971–1973: New York
    * 1975–1980: Rückzug ins Privatleben und Comeback
    * 1980: Attentat und Tod
+   
+> Give Peace A Chance
