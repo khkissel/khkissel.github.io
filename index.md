@@ -2,7 +2,7 @@
 John Winston Lennon (geb. am 9. Oktober 1940 in Liverpool - erschossen am 8. Dezember 1980 in New York) war ein britischer Musiker. 
 Berühmt wurde er als Mitgründer, Sänger und Gitarrist der Beatles, für die er – neben Paul McCartney – die meisten Stücke schrieb. 
 Die Komponsitionen von Lennon/McCartney sind mit die bekanntesten und erfolgreichsten in der Geschichte der Popmusik. 
-##Leben
+## Leben
 * Kindheit
   * Frühe Jahre
 * The Quarrymen
