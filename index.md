@@ -20,3 +20,5 @@ Die Komponsitionen von Lennon/McCartney sind mit die bekanntesten und erfolgreic
    * 1980: Attentat und Tod
    
 > Give Peace A Chance
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/John_Lennon_passport_photo_%28cropped%29.jpg"/> 
